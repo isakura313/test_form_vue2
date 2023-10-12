@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Montserrat:wght@400;500;700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --green-600: rgba(7, 168, 110, 1);
+    --yellow-500: rgba(255, 212, 103, 1);
+    --grayscale-600: rgba(146, 146, 160, 1);
+    --grayscale-700: rgba(105, 105, 119, 1);
+    --grayscale-900: rgba(0, 0, 0, 1);
+    --grayscale-50: rgb(230, 228, 228);
+}
